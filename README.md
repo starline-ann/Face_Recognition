@@ -16,5 +16,4 @@ Educational project in Deep Learning School.
 
 • Finding trash photo in dataset (whose embeddings norms are the highest)
 
-
 ![Alt text](img.png?raw=true "Result")
