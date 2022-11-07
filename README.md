@@ -14,5 +14,4 @@ Fine-tune InceptionResnetV1 on CelebA Datase
 
 • Finding trash photo in dataset (whose embeddings norms are the highest)
 
-
 ![Alt text](img.png?raw=true "Result")
