@@ -1,8 +1,6 @@
 # Face_Recognition
 Fine-tune InceptionResnetV1 on CelebA Datase
 
-Educational project in Deep Learning School.
-
 
 • Fine-tune InceptionResnetV1 (pretrained on VGGFace2) on CelebA Dataset.
 
